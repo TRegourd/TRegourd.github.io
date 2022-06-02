@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: tregourd.github.io
+Token: d9c700eb55850335be620b0782ab18e114f8c5af40109572952fdff9b044f02b
